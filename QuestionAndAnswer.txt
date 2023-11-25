@@ -1,0 +1,69 @@
+01. By which program python was interpreted ?
+		01. Python compiler
+		02. Python Interpreter
+		03. Python CLI
+		04. None of these
+	Answer : 02 
+
+02. What is the purpose of the "this" keyword in Java?
+		01. To create a new instance of a class
+		02  To refer to the current instance of the class
+		03. To access static members of the class
+		04. To define 
+	Answer : 03
+	
+03. Full form of API
+		01. Android Platform Integration
+		02. Application Public Interface
+		03. Application Postman Interface
+		04. Application Programming Interface
+	Answer : 04
+
+04. Which command initializes a new Git repository?
+		01. git new
+		02. git create
+		03. git start
+		04. git init
+	Answer : 04
+	
+05. Which command is used to create the new react app?
+		01. npx create-react-app my-app
+        02. npx create-react-app -g my-app
+		03. npx create-new-react-app my-app
+		04. None of these
+	Answer : 01
+
+06. Which of the following is not a valid keyword in C++ language?
+		01. while
+		02. for
+		03. switch
+		04. do-while
+	Answer: 04
+	
+07. Which of these is not a type of love?
+		01. Eros
+		02. Friendly
+		03. Philia
+		04. Agape
+	Answer: 02
+
+08. Application of machine learning methods to large databases is called
+		01. data mining.
+		02. artificial intelligence
+		03. big data computing
+		04. internet of things
+	Answer:01
+
+09.  If the given input array is sorted or nearly sorted, which of the following algorithm gives the best performance?
+		01. Insertion sort
+		02. Selection sort
+		03. Quick sort
+		04. Merge sort
+	Answer: 01
+
+10. What is the pH value of the human body?
+		01. 9.2 to 9.8
+		02. 7.0 to 7.8
+		03. 6.1 to 6.3
+		04. 5.4 to 5.6
+	Answer: 02
